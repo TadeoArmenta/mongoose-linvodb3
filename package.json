@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bson": "^1.0.4",
-    "leveldown": "^1.7.2",
+    "leveldown": "^4.0.1",
     "linvodb3": "^3.26.0",
     "lodash": "4.16.2",
     "medeadown": "^1.1.8",
